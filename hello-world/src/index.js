@@ -23,3 +23,7 @@ ReactDOM.render(element, document.getElementById('root'));
 // where to render needs to be a place in the real DOM
 
 // $ npm run start
+
+// $ npm run eject 
+// This will populate package.json with the list of dependencies abstracted out by react-script
+// Beware of the fact as this is one way road. You cannot go back to earlier state. 
